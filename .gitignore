@@ -1,3 +1,4 @@
 /.idea/
 /SF-Test.iml
 /target/
+/src/main/resources/auth.properties
